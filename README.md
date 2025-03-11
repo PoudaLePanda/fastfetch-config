@@ -8,7 +8,7 @@ Un dotfile personnalisé pour Fastfetch, permettant d'afficher un système d'inf
 
 ## 🎨 Aperçu
 
-![Aperçu de Fastfetch](https://github.com/PoudaLePanda/fastfetch-config/capture.png)
+![Aperçu de Fastfetch](https://github.com/PoudaLePanda/fastfetch-config/blob/main/capture.png)
 
 
 ## 📂 Installation
