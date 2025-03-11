@@ -3,10 +3,10 @@
     "logo": {
         "type": "kitty",
         "source": "~/.config/fastfetch/lmlab-logo.png",
-        "width": 27,
-        "height": 13,
+        "width": 19,
+        "height": 8,
         "padding": {
-            "top": 1,
+            "top": 4,
             "right": 2,
             "left": 2
         }
